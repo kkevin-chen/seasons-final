@@ -1,0 +1,76 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: darkslategrey;
+    width: 900px;
+    margin: auto;
+}
+
+.exterior{
+    padding-top: 10px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+
+h1, h3 {
+    font-family: 'Paytone One', sans-serif;
+    letter-spacing: 3px;
+}
+
+h1{
+    font-size: 38px;
+}
+
+.add {
+    font-size: 18px;
+    padding: 5px 20px
+}
+
+img {
+    width: 800px;
+    padding: 50px 0px;
+    clip: rect(0px, 600px, 200px  0px);
+    border-radius: 50px;
+}
+
+.spring-div, .summer-div, .autumn-div, .winter-div {
+    width: 800px;
+    margin: 0px;
+    padding: 10px 50px;
+    border: none;
+}
+
+.spring-div {
+    background-color: rgb(254, 240, 158);
+}
+
+.summer-div {
+    background-color: rgb(151,227,251);
+}
+
+.autumn-div {
+    color: white;
+    background-color: #9C2706;
+}
+
+.winter-div {
+    color: white;
+    background-color: steelblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+hr {
+    width: 800px;
+}
+
+ul{
+    text-align: left;
+}
